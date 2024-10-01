@@ -1,4 +1,4 @@
-Ninja-Adventure
+#Ninja-Adventure
 Ninja Adventure is a 2D top-down action game built in C++ using the SFML framework. Players take control of a brave ninja, navigating enemy-infested levels and rough terrain to advance. The game focuses on timing and strategy and has challenging real-time combat mechanics.
 
 Features
