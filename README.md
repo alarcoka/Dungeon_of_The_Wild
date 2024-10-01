@@ -13,4 +13,4 @@
 
 ## License
 
-The source code is partially copyrighted under SFML; therefore, it is not publicly available. Please email me at [arunavsaha814@gmail.com](mailto:arunavsaha814@gmail.com) to request a copy of the code.
+The source code is partially copyrighted under SFML; therefore, it is not publicly available. Please email me at [arunavsaha814@gmail.com](mailto:arunavsaha814@gmail.com) to request a copy of the code. You can also read the feature files and watch the gameplay for specific features here.
