@@ -37,6 +37,12 @@ Dungeon of the Wild is an action-adventure RPG that allows players to explore cu
 - Implemented parallax backgrounds for depth
 - Dynamic UI displaying player health, inventory, and game progression
 
+## Source Code Availability
+The source code for Dungeon of the Wild is **available upon request**. If you are interested in accessing the code, please contact [arunavs@mun.ca](mailto:arunavs@mun.ca).
+
+## Code Statistics
+A total of **7,564 lines of code** were written for the project. For a detailed breakdown of individual files and their responsibilities, refer to [Code Statistics](docs/code_statistics.md).
+
 ## Media and Showcase
 - **[Trailer](https://www.youtube.com/watch?v=OAiTauOFOWk)**
 - **[Gameplay](https://www.youtube.com/watch?v=BavucS3_W5g)**
