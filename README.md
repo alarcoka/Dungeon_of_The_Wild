@@ -1,16 +1,56 @@
-# Ninja-Adventure
+# Dungeon of the Wild - Official Documentation
 
-**Ninja Adventure** is a 2D top-down action game built in **C++** using the **SFML** framework. Players take control of a brave ninja, navigating enemy-infested levels and rough terrain to advance. The game focuses on timing and strategy, with challenging real-time combat mechanics.
+## Overview
+Dungeon of the Wild is an action-adventure RPG that allows players to explore custom-built maps, battle various enemies, and challenge powerful bosses. Designed as the final project for CS4300: Game Development, the game features strategic combat, item collection, and an immersive dungeon-crawling experience.
 
-## Features
+## Project Information
+- **Game Title:** Dungeon of the Wild
+- **Genre:** Action-Adventure RPG
+- **Platform:** PC
+- **Game Engine:** Custom-built using C++ and SFML
+- **Animation & Assets:** Piskel (for sprite animations)
+- **Development Status:** Completed and stable
+- **Project Type:** Final course project for CS4300: Game Development
 
-- **Top-Down View**: Classic 2.5D perspective for strategic movement and gameplay.
-- **Stealth Mechanics**: Avoid detection by enemies to strike from the shadows.
-- **Real-Time Combat**: Engage in dynamic combat with a variety of enemies.
-- **Weapon Choice**: Make use of various weapons from your arsenal.
-- **Customizable Controls**: Tailor the control scheme to your preference.
-- **Immersive Graphics**: Smooth animations and visual effects powered by SFML.
+## Development Team
+- [Saurav Singh Chandel](https://github.com/SauravSinghChandel)
+- [Jenna Hillier](https://github.com/JennaHB)
+- [Arunav Saha](https://github.com/arnab814)
+- [Adrian Alarcon](https://github.com/alarcoka)
 
-## License
+## Game Features
+### Core Gameplay
+- Custom-built overworld and dungeon maps
+- Engaging combat mechanics with different weapons and abilities
+- Multiple enemy types, including AI-driven NPCs and boss fights
+- Game progression with save/load functionality
 
-The source code is partially copyrighted under SFML; therefore, it is not publicly available. Please email me at [arunavsaha814@gmail.com](mailto:arunavsaha814@gmail.com) to request a copy of the code. You can also read the feature files and watch the gameplay for specific features here- https://youtu.be/IQEKhv6F1T4
+### Combat System
+- Player abilities include dashing with invincibility frames and a rewind mechanic
+- Weapon-based combat featuring an axe, shuriken, and bombs
+- Status effects such as burn, slow, and dizziness
+- AI-driven enemies with unique attack and movement patterns
+
+### Technical Aspects
+- Physics-driven movement with collision detection
+- Raycasting for line-of-sight and visibility mechanics
+- Implemented parallax backgrounds for depth
+- Dynamic UI displaying player health, inventory, and game progression
+
+## Media and Showcase
+- **[Trailer](https://www.youtube.com/watch?v=OAiTauOFOWk)**
+- **[Gameplay](https://www.youtube.com/watch?v=BavucS3_W5g)**
+- **[Presentation](https://www.youtube.com/watch?v=uSZVcRoVXsw)**
+
+## Documentation
+For an in-depth breakdown of mechanics, UI, and development details, refer to the following sections:
+- [Gameplay Guide](docs/gameplay.md)
+- [Mechanics Overview](docs/mechanics.md)
+- [Development Insights](docs/development.md)
+
+## Contact & Future Updates
+If you have any feedback or inquiries, please reach out to [arunavs@mun.ca](mailto:arunavs@mun.ca). While the project is complete, updates may be considered based on player feedback.
+
+## Acknowledgments
+For asset credits and external resources used, see [CREDITS.md](CREDITS.md).
+
