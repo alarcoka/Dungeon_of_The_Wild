@@ -53,5 +53,5 @@ Dungeon of the Wild is an action-adventure RPG that combines strategic combat, e
 - **Limited Visibility Areas**: Dark caves with raycasting-based lighting.
 - **Parallax Backgrounds**: Enhances the visual experience.
 
-For additional information on technical mechanics, refer to the [Mechanics Overview](docs/mechanics.md).
+For additional information on technical mechanics, refer to the [Mechanics Overview](mechanics.md).
 
