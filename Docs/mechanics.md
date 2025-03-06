@@ -43,5 +43,5 @@
   - Set difficulty levels (Easy, Normal, Hard).
   - (Planned) Key rebinding functionality.
 
-For insights into the development process and implementation details, refer to [Development Insights](docs/development.md).
+For insights into the development process and implementation details, refer to [Development Insights](development.md).
 
