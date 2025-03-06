@@ -58,5 +58,5 @@ For an in-depth breakdown of mechanics, UI, and development details, refer to th
 If you have any feedback or inquiries, please reach out to [arunavs@mun.ca](mailto:arunavs@mun.ca). While the project is complete, updates may be considered based on player feedback.
 
 ## Acknowledgments
-For asset credits and external resources used, see [CREDITS.md](credits.md).
+For asset credits and external resources used, see [CREDITS.md](Credits.md).
 
